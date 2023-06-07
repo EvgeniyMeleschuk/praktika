@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-montserrat: Montserrat;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-xl: 20px;
+  --font-size-5xl: 24px;
+  --font-size-lgi: 19px;
+  --font-size-lg: 18px;
+  --font-size-11xl: 30px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkslateblue-100: #27589c;
+  --color-darkslateblue-200: #1a3b69;
+  --color-steelblue: #5f7fac;
+  --color-darkorange: #ef8711;
+  --color-black: #000;
+
+  /* border radiuses */
+  --br-3xs: 10px;
+}
